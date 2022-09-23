@@ -4,10 +4,10 @@ body {
     font-family:'Noto Sans', sans-serif;
     margin: 0;
 }
-
 body * {
     box-sizing: border-box;
 }
+/** MAIN-LOGIN definirá as configurações da div principal, onde terá todos os elementos **/
 .main-login {
     width: 100vw;
     height: 100vh;
@@ -17,7 +17,7 @@ body * {
     justify-content: center;
     align-items: center;
 }
-
+/** LEFT-LOGIN definirá as configurações da minha div filha que ficará no lado esquerdo **/
 .left-login {
     width: 50vw;
     height: 50vh;
@@ -33,7 +33,7 @@ body * {
 .left-login-image {
     width: 35vw;
 }
-
+/** RIGHT-LOGIN definirá as configurações da minha div filha que ficará no lado direito **/
 .right-login {
     width: 50vw;
     height: 50vh;
@@ -42,6 +42,7 @@ body * {
     align-items: center;
 
 }
+/** a classe LOGIN é onde contém os elementos de input e botão **/
 .login {
     width: 60%;
     display: flex;
@@ -58,7 +59,7 @@ body * {
     font-weight: 800;
     margin: 0;
 }
-
+/** Configuração dos labels e inputs dentro da div LOGIN **/
 .textfield {
     width: 100%;
     display: flex;
@@ -67,7 +68,6 @@ body * {
     justify-content: center;
     margin: 10px 0px;
 }
-
 .textfield > input {
     width: 100%;
     border: none;
@@ -80,7 +80,6 @@ body * {
     outline: none;
     box-sizing: border-box;
 }
-
 .textfield > label {
     color: #f0ffffde;
     margin-bottom: 10px;
@@ -88,7 +87,7 @@ body * {
 .textfield >input::placeholder{
     color: #f0ffffde ;
 }
-
+/** Configuração individual do botão de "LOGIN" **/
 .btn-login {
     width: 100%;
     padding: 16px 0px;
@@ -104,7 +103,7 @@ body * {
     cursor: pointer;
     box-shadow: 0px 10px 40px -12px #00ff88;
 }
-
+/** @media está definindo a responsividade para outros tipos de Viewport(telas) **/
 @media only screen and (max-width: 950px){
         .login {
             width: 85%;
@@ -128,5 +127,4 @@ body * {
     .left-login-image {
         width:50vw;
     }
-
 }
