@@ -33,7 +33,7 @@ Página de login e senha, responsiva com tema dark. <br/>
 
 - O LoginPageResponsive é uma tela de forma responsiva, onde podemos está inserindo dados como usuário e senha.No momento está só com o Layout em Html e CSS mas há a possibilidade de inserir um JScript, dando então ações para os campos de informações e para o botão.
 
-- Você pode visualizar ao projeto em execução(Online), acessando [Este Link](https://gabnns.github.io/LoginPageResponsive/)
+- [Visite o projeto online](https://gabnns.github.io/LoginPageResponsive/)!
 
 ## 🔖 Layout
 
