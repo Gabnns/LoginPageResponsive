@@ -16,7 +16,7 @@ Página de login e senha, responsiva com tema dark. <br/>
 </p>
 
 <p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+  ![LoginResponsive](https://user-images.githubusercontent.com/86312347/213256161-e4149f56-8901-4430-a798-bf7bdfecda3f.PNG)
 </p>
 
 
@@ -33,12 +33,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O LoginPageResponsive é uma tela de forma responsiva, onde podemos está inserindo dados como usuário e senha.No momento está só com o Layout em Html e CSS mas há a possibilidade de inserir um JScript, dando então ações para os campos de informações e para o botão.
 
-- Projeto realizado apartir das instruções dadas pelo youtuber Markzuel.<br>
-Link do vídeo: https://www.youtube.com/watch?v=69-WfrVBli8&ab_channel=Markzuel(https://maykbrito.github.io/nlw-setup
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/rUehN6LUDEjdEPpO4JLhBT/%23boraCodar---Desafio-1-(Community)-(Community)?node-id=0%3A1&t=EIO3NAIgMhgbf75N-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+- Projeto realizado apartir das instruções dadas pelo youtuber Markzuel. <br>
+Link do vídeo: https://www.youtube.com/watch?v=69-WfrVBli8&ab_channel=Markzuel(https://maykbrito.github.io/nlw-setup
+
 
 ## :memo: Licença
 
@@ -52,4 +52,4 @@ Esse projeto está sob a licença MIT.
 
 
 
-![LoginResponsive](https://user-images.githubusercontent.com/86312347/213256161-e4149f56-8901-4430-a798-bf7bdfecda3f.PNG)
+
