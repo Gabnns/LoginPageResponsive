@@ -16,7 +16,7 @@ Página de login e senha, responsiva com tema dark. <br/>
 </p>
 
 <p align="center">
-  ![LoginResponsive](https://user-images.githubusercontent.com/86312347/213256161-e4149f56-8901-4430-a798-bf7bdfecda3f.PNG)
+  ![LoginResponsive](https://user-images.githubusercontent.com/86312347/213257848-dc2452fa-43f0-47a1-aa09-d1085990d8ac.PNG)
 </p>
 
 
