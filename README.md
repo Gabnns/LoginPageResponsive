@@ -15,9 +15,9 @@ Página de login e senha, responsiva com tema dark. <br/>
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-<p align="center">
+
   ![LoginResponsive](https://user-images.githubusercontent.com/86312347/213257848-dc2452fa-43f0-47a1-aa09-d1085990d8ac.PNG)
-</p>
+
 
 
 <br>
